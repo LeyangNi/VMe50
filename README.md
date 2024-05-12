@@ -1,5 +1,5 @@
-### Archery Game
+# Archery Game
 
-# Introduction 
+## Introduction 
 
-# Set up 
+## Set up 
