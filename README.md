@@ -35,6 +35,9 @@ Once the player releases an arrow, the count of arrows will automatically increa
 If the number of remaining targets goes to 0, the player has successfully completed the whole task and a congratulation message will appear in front of them. If they want to start a new trial, the user can quit the game and re-enter. By monitoring the statistics we provide, especially the number of arrows used to shoot down all the floating targets, the user can directly get a sense of their improvement as they practice. That is, the fewer arrows are used to shoot down all targets, the better they are performing in this archery task.
 
 ## Team Members
+
+Team name: VMe50.
+
 |      Name     | Perm Number |
 | ------------- | ----------- |
 |   Leyang Ni   |   5538293   | 
