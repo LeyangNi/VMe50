@@ -1,16 +1,25 @@
 # Archery Game
 
 ## Introduction 
-This is a VR archery game that aims to let users practice the skill of archery considering the weight of bows, the distance of the targets, among other environment conditions.
+This is a VR archery game that aims to let users practice the skill of archery with floating targets.
 
-## Set up Scene
+In this archery game, players are presented with a bow that they can grab and pull the string to release arrows using their controllers. In front of the player, there are multiple moving targets with different distances. The user’s goal is to shoot all the moving targets using as less arrows as possible.
 
-<img width="1440" alt="VMe50_Scene" src="https://github.com/LeyangNi/VMe50/assets/107967055/ec6d8e3b-82ca-4877-a170-58b53cde5cdd">
+## Player Instruction
+### How to move
+When players enter the game, they will land on a plane and they can walk around. Besides the player is a stand with a bow on top of that. The player should follow the text instructions in front of them to pick up the bow and pull the string directly. 
 
-### Locomotion Technique
+### Controller buttons
+To pick up the bow and pull the string, the player should use the buttons on the inner side of the controllers (both sides should work). 
+![image](https://github.com/LeyangNi/VMe50/assets/107967055/9c89a3b5-209c-4e01-a2d5-dc1bf7961528)
 
-Our locomotion technique is walking. 
-For an archery game, the main task for users is to learn the posture of arms and hands, so we do not want to make the learning environment overcomplicated with extra locomotions. Besides, incorperating walking in our archery game also aligns with the nature of the game in reality. 
+Make sure to adjust the volume of the headset to hear the sound effects of pulling the string, shooting arrows, and hitting targets. 
+### Tasks
+After the player holds the bow in hand, they can directly pull the string and an arrow will automatically appear. The number of arrows that are used will appear on the left side of the wall (with an initial value of 0). The number of targets left will appear on the right side of the wall (with an initial value of 8). 
+
+Once the player shoots an arrow, the counter of arrows will automatically increase by 1. If the arrow hits the target successfully, the target will fall off and the number of remaining targets will decrease by 1. 
+
+If the number of remaining targets goes to 0, the player will complete the task and a congratulation message will appear in front of them. If they want to start a new trial, the user can quit the game and re-enter. 
 
 ## Team Members
 |      Name     | Perm Number |
