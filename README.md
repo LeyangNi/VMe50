@@ -8,15 +8,16 @@ In this archery game, players are presented with a grabbable bow with which they
 ## Player Instruction
 
 ### How to move
-When players enter the game, they will land on a plane and they can walk around. Besides the player is a stand with a bow on top of that. The player should follow the text instructions in front of them to pick up the bow and pull the string directly. 
+When players enter the game, they will land on a plane where they can walk around. Besides the player is a stand with a bow on top of that. The player should follow the text instructions in front of them to pick up the bow and pull the string directly. 
 ![image](https://github.com/LeyangNi/VMe50/assets/107967055/0d49e0e3-61b2-4819-8864-40e260eb70fc)
 
 
 ### Controller buttons
-To pick up the bow and pull the string, the player should use the buttons on the inner side of the controllers (both sides should work). 
+To pick up the bow and pull the string, the player should use the buttons on the inner side of the controllers (both sides should work). See the photo below for an illustration.
 ![image](https://github.com/LeyangNi/VMe50/assets/107967055/9c89a3b5-209c-4e01-a2d5-dc1bf7961528)
 
-Make sure to adjust the volume of the headset to hear the sound effects of pulling the string, shooting arrows, and hitting targets. 
+Make sure to adjust the volume of the headset to hear the sound effects when pulling the string, shooting arrows, and hitting targets. 
+
 ### Tasks
 After the player holds the bow in hand, they can directly pull the string and an arrow will automatically appear. The number of arrows that are used will appear on the left side of the wall (with an initial value of 0). The number of targets left will appear on the right side of the wall (with an initial value of 8). 
 ![image](https://github.com/LeyangNi/VMe50/assets/107967055/5713a727-7c26-40cb-acaf-41ca9cd23590)
