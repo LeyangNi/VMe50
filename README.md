@@ -1,4 +1,4 @@
-# Archery Game
+# Floating Archery
 
 ## Introduction 
 This is a VR archery game that aims to let users practice the skill of archery with floating targets.
