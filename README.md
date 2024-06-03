@@ -1,9 +1,9 @@
 # Floating Archery
 
 ## Introduction 
-This is a VR archery game that aims to let users practice the skill of archery with floating targets.
+This is a VR archery game that aims to help users practice the skill of archery with floating targets.
 
-In this archery game, players are presented with a bow that they can grab and pull the string to release arrows using their controllers. In front of the player, there are multiple moving targets with different distances. The user’s goal is to shoot all the moving targets using as less arrows as possible.
+In this archery game, players are presented with a grabbable bow with which they can pull the string to release arrows using their controllers. In front of the player, there are multiple floating targets with different distances and angles. The user’s goal is to shoot all the moving targets down using as few arrows as possible.
 
 ## Player Instruction
 
