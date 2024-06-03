@@ -6,8 +6,6 @@ This is a VR archery game that aims to let users practice the skill of archery w
 In this archery game, players are presented with a bow that they can grab and pull the string to release arrows using their controllers. In front of the player, there are multiple moving targets with different distances. The user’s goal is to shoot all the moving targets using as less arrows as possible.
 
 ## Player Instruction
-### To build the game
-The apk file is attached in the release. The name of the apk file should be 
 
 ### How to move
 When players enter the game, they will land on a plane and they can walk around. Besides the player is a stand with a bow on top of that. The player should follow the text instructions in front of them to pick up the bow and pull the string directly. 
